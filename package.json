@@ -1,0 +1,27 @@
+{
+  "name": "ninjabot",
+  "version": "1.0.0",
+  "description": "Slack Bot For Torchlight Status",
+  "main": "lib/ninjabot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rajendrach/ninjabot.git"
+  },
+  "keywords": [
+    "ninjabot",
+    "slackbot"
+  ],
+  "author": "Rajendra",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rajendrach/ninjabot/issues"
+  },
+  "homepage": "https://github.com/rajendrach/ninjabot#readme",
+  "dependencies": {
+    "slackbots": "^0.3.0",
+    "sqlite3": "^3.1.8"
+  }
+}
